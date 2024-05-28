@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&show_icons=true&theme=tokyonight)](https://github.com/jkeresman01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=dracula)](https://github.com/jkeresman01/github-readme-stats)
 
 <!--
 **jkeresman01/jkeresman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
