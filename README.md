@@ -1,9 +1,10 @@
+&emsp;&emsp;&emsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark&layout=donut&hide_title=true)](https://github.com/jkeresman01/github-readme-stats)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+ &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;
 ![c++](https://github.com/jkeresman01/jkeresman01/assets/165517653/a3b11290-2cbc-44a1-95bc-ae6f661fc680) &emsp;&emsp;&emsp;
 ![java96](https://github.com/jkeresman01/jkeresman01/assets/165517653/00caf14c-706d-4b60-813f-4bc4e4e1fb96) &emsp;&emsp;&emsp;
 ![icons8-linux-96](https://github.com/jkeresman01/jkeresman01/assets/165517653/f2adc49f-0de9-479b-b5eb-10792afcafa4) &emsp;&emsp;&emsp;
