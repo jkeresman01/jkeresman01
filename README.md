@@ -6,8 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark&layout=donut&hide_title=true)](https://github.com/jkeresman01/github-readme-stats)
 
-## Technologies and Tools ##
-
 <p align="center">
 
 | C++                                                                                           | Java                                                                                           | Linux                                                                                           | Bash                                                                                           | Vim                                                                                            |
