@@ -1,5 +1,5 @@
-&emsp;&emsp;&emsp;&emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark) &emsp;&emsp;&emsp;&emsp;&emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark&layout=donut&hide_title=true)](https://github.com/jkeresman01/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark&token=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) &emsp;&emsp;&emsp;&emsp;&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkeresman01&theme=github_dark&layout=donut&hide_title=true&token=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)](https://github.com/jkeresman01/github-readme-stats)
 
 ***
 
