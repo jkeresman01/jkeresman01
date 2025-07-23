@@ -11,6 +11,16 @@
 ![icons8-bash-96](https://github.com/jkeresman01/jkeresman01/assets/165517653/2a886147-ca9c-49e7-af52-d9972c0172ee) &emsp;&emsp;&emsp;&emsp;
 ![image](https://github.com/jkeresman01/jkeresman01/assets/165517653/2b6434f1-e71e-4e45-84fa-b2165b09d900) &emsp;&emsp;&emsp;
 
+***
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> — Harold Abelson
+
+
+> *"A programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system."*
+>  
+> — Rober C. Martin
+
 <!--
 **jkeresman01/jkeresman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
