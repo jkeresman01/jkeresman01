@@ -19,7 +19,7 @@
 
 > *"A programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system."*
 >  
-> — Rober C. Martin
+> — Robert C. Martin
 
 <!--
 **jkeresman01/jkeresman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
